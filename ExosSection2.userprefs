@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{53F2698A-A3C9-4137-86BE-EA930F8687EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExosSection2/QuotesPage.xaml.cs">
+    <Files>
+      <File FileName="ExosSection2/QuotesPage.xaml.cs" Line="29" Column="5" />
+      <File FileName="ExosSection2/Properties/AssemblyInfo.cs" Line="29" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExosSection2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.16DC619B-E52C-46FF-A589-FCB0079A5F9A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

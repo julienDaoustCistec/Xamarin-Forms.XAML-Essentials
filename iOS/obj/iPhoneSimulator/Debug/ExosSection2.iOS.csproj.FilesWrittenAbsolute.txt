@@ -1,0 +1,15 @@
+/Users/juliendaoust/Projects/ExosSection2/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/juliendaoust/Projects/ExosSection2/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/juliendaoust/Projects/ExosSection2/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/juliendaoust/Projects/ExosSection2/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/juliendaoust/Projects/ExosSection2/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/ExosSection2.iOS.exe.mdb
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/ExosSection2.iOS.exe
+/Users/juliendaoust/Projects/ExosSection2/iOS/obj/iPhoneSimulator/Debug/ExosSection2.iOS.exe
+/Users/juliendaoust/Projects/ExosSection2/iOS/obj/iPhoneSimulator/Debug/ExosSection2.iOS.exe.mdb
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/ExosSection2.dll
+/Users/juliendaoust/Projects/ExosSection2/iOS/bin/iPhoneSimulator/Debug/ExosSection2.dll.mdb
